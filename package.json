@@ -1,0 +1,25 @@
+{
+  "name": "gitskills",
+  "version": "1.0.0",
+  "description": "learngit again\r creating a new branch is quick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianqiu992678/gitskills.git"
+  },
+  "keywords": [
+    "gitskills"
+  ],
+  "author": "guanqian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianqiu992678/gitskills/issues"
+  },
+  "homepage": "https://github.com/qianqiu992678/gitskills#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
